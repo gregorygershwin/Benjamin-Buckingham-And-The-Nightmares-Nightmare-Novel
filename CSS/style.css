@@ -519,8 +519,7 @@ table.footnote {
 @font-face {
   font-family: Inconsolata Mono;
   font-style: normal;
-  font-weight: normal;
-  src: url("Inconsolata.otf"); }
+  font-weight: normal; }
 
 .normal-mono {
   font-family: "Courier New", Courier, monospace; }
@@ -534,18 +533,13 @@ tt, pre, .mono {
   font-family: mgopen modata;
   font-style: normal;
   font-weight: normal;
-  font-size: 0.5em;
-  src: url("MgOpenModataRegular.ttf"); }
-
-.modata {
-  font-family: "mgopen modata"; }
+  font-size: 0.5em; }
 
 @font-face {
   font-family: hidden;
   font-style: normal;
   font-weight: normal;
-  font-size: 1em;
-  src: url("invisible1.ttf"); }
+  font-size: 1em;}
 
 .hidden-font {
   font-family: "hidden"; }
