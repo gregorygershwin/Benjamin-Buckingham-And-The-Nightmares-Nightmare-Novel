@@ -17,224 +17,224 @@
 
 		<navPoint id="a1" playOrder="0">
 			<navLabel>
-				<text>Chapter01</text>
+				<text>In Which There Is A Beginning</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter01"/>
 		</navPoint>
 
 		<navPoint id="a2" playOrder="0">
 			<navLabel>
-				<text>Chapter02</text>
+				<text>In Which There Is A Nightmare</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter02"/>
 		</navPoint>
 		
 		<navPoint id="a3" playOrder="0">
 			<navLabel>
-				<text>Chapter03</text>
+				<text>In Which There Is A Dinosaur</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter03"/>
 		</navPoint>
 		
 		<navPoint id="a4" playOrder="0">
 			<navLabel>
-				<text>Chapter04</text>
+				<text>In Which There Is A Lost Child</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter04"/>
 		</navPoint>
 		
 		<navPoint id="a5" playOrder="0">
 			<navLabel>
-				<text>Chapter05</text>
+				<text>In Which There Is A Castle</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter05"/>
 		</navPoint>
 		
 		<navPoint id="a6" playOrder="0">
 			<navLabel>
-				<text>Chapter06</text>
+				<text>In Which There Is A King</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter06"/>
 		</navPoint>
 		
 		<navPoint id="a7" playOrder="0">
 			<navLabel>
-				<text>Chapter07</text>
+				<text>In Which There Are Automatons</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter07"/>
 		</navPoint>
 		
 		<navPoint id="a8" playOrder="0">
 			<navLabel>
-				<text>Chapter08</text>
+				<text>In Which There Is A Train</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter08"/>
 		</navPoint>
 		
 		<navPoint id="a9" playOrder="0">
 			<navLabel>
-				<text>Chapter09</text>
+				<text>In Which There Is A School</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter09"/>
 		</navPoint>
 		
 		<navPoint id="a10" playOrder="0">
 			<navLabel>
-				<text>Chapter10</text>
+				<text>In Which There Is A Bully</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter10"/>
 		</navPoint>
 		
 		<navPoint id="a11" playOrder="0">
 			<navLabel>
-				<text>Chapter11</text>
+				<text>In Which There Is A Flying Machine</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter11"/>
 		</navPoint>
 		
 		<navPoint id="a12" playOrder="0">
 			<navLabel>
-				<text>Chapter12</text>
+				<text>In Which There Is Evil</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter12"/>
 		</navPoint>
 		
 		<navPoint id="a13" playOrder="0">
 			<navLabel>
-				<text>Chapter13</text>
+				<text>In Which There Is A Production Studio</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter13"/>
 		</navPoint>
 		
 		<navPoint id="a14" playOrder="0">
 			<navLabel>
-				<text>Chapter14</text>
+				<text>In Which There Is An Attack</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter14"/>
 		</navPoint>
 		
 		<navPoint id="a15" playOrder="0">
 			<navLabel>
-				<text>Chapter15</text>
+				<text>In Which There Is Anger</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter15"/>
 		</navPoint>
 		
 		<navPoint id="a16" playOrder="0">
 			<navLabel>
-				<text>Chapter16</text>
+				<text>In Which There Is An Escape</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter16"/>
 		</navPoint>
 		
 		<navPoint id="a17" playOrder="0">
 			<navLabel>
-				<text>Chapter17</text>
+				<text>In Which There Is A Judgment</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter17"/>
 		</navPoint>
 		
 		<navPoint id="a18" playOrder="0">
 			<navLabel>
-				<text>Chapter18</text>
+				<text>In Which There Is A Departure</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter18"/>
 		</navPoint>
 		
 		<navPoint id="a19" playOrder="0">
 			<navLabel>
-				<text>Chapter19</text>
+				<text>In Which There Is A Squirrel</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter19"/>
 		</navPoint>
 		
 		<navPoint id="a20" playOrder="0">
 			<navLabel>
-				<text>Chapter20</text>
+				<text>In Which There Is A Tree</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter20"/>
 		</navPoint>
 		
 		<navPoint id="a21" playOrder="0">
 			<navLabel>
-				<text>Chapter21</text>
+				<text>In Which There Is A Request</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter21"/>
 		</navPoint>
 		
 		<navPoint id="a22" playOrder="0">
 			<navLabel>
-				<text>Chapter22</text>
+				<text>In Which There Is A Bird</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter22"/>
 		</navPoint>
 		
 		<navPoint id="a23" playOrder="0">
 			<navLabel>
-				<text>Chapter23</text>
+				<text>In Which There Is A Glass Castle</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter23"/>
 		</navPoint>
 		
 		<navPoint id="a24" playOrder="0">
 			<navLabel>
-				<text>Chapter24</text>
+				<text>In Which There Is A Glass Tower</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter24"/>
 		</navPoint>
 		
 		<navPoint id="a25" playOrder="0">
 			<navLabel>
-				<text>Chapter25</text>
+				<text>In Which There Is A Queen</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter25"/>
 		</navPoint>
 		
 		<navPoint id="a26" playOrder="0">
 			<navLabel>
-				<text>Chapter26</text>
+				<text>In Which There Is A Door</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter26"/>
 		</navPoint>
 		
 		<navPoint id="a27" playOrder="0">
 			<navLabel>
-				<text>Chapter27</text>
+				<text>In Which There Is Nightmare Castle</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter27"/>
 		</navPoint>
 		
 		<navPoint id="a28" playOrder="0">
 			<navLabel>
-				<text>Chapter28</text>
+				<text>In Which There Is A Nightmarer</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter28"/>
 		</navPoint>
 		
 		<navPoint id="a29" playOrder="0">
 			<navLabel>
-				<text>Chapter29</text>
+				<text>In Which There Is A Realization</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter29"/>
 		</navPoint>
 		
 		<navPoint id="a30" playOrder="0">
 			<navLabel>
-				<text>Chapter30</text>
+				<text>In Which There Is A Battle</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter30"/>
 		</navPoint>
 		
 		<navPoint id="a31" playOrder="0">
 			<navLabel>
-				<text>Chapter31</text>
+				<text>In Which There Is A Guard</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter31"/>
 		</navPoint>
 		
 		<navPoint id="a32" playOrder="0">
 			<navLabel>
-				<text>Chapter32</text>
+				<text>In Which There Is A Dinosaur</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter32"/>
 		</navPoint>
