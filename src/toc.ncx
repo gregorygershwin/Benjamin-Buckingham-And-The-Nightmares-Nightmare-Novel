@@ -17,16 +17,9 @@
 
 		<navPoint id="a1" playOrder="0">
 			<navLabel>
-				<text>In Which There Is A Beginning</text>
-			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter01"/>
-		</navPoint>
-
-		<navPoint id="a2" playOrder="0">
-			<navLabel>
 				<text>In Which There Is A Nightmare</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter02"/>
+			<content src="20140112-benjamin-buckingham.html#chapter01"/>
 		</navPoint>
 		
 		<navPoint id="a3" playOrder="0">
