@@ -36,25 +36,18 @@
 			<content src="20140112-benjamin-buckingham.html#chapter03"/>
 		</navPoint>
 		
-		<navPoint id="a5" playOrder="0">
-			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Castle</text>
-			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter05"/>
-		</navPoint>
-		
-		<navPoint id="a6" playOrder="0">
+		<navPoint id="a4" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A King</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter06"/>
+			<content src="20140112-benjamin-buckingham.html#chapter04"/>
 		</navPoint>
 		
-		<navPoint id="a7" playOrder="0">
+		<navPoint id="a5" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Are Automatons</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter07"/>
+			<content src="20140112-benjamin-buckingham.html#chapter05"/>
 		</navPoint>
 		
 		<navPoint id="a8" playOrder="0">
