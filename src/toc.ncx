@@ -52,16 +52,16 @@
 		
 		<navPoint id="a6" playOrder="0">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Train</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Magical Escape Train</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter06"/>
 		</navPoint>
 		
-		<navPoint id="a9" playOrder="0">
+		<navPoint id="a7" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A School</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter09"/>
+			<content src="20140112-benjamin-buckingham.html#chapter07"/>
 		</navPoint>
 		
 		<navPoint id="a10" playOrder="0">
