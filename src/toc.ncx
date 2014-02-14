@@ -66,12 +66,26 @@
 		
 		<navPoint id="a8" playOrder="0">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A King Kidnapping</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Production Studio</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter8"/>
 		</navPoint>
 		
 		<navPoint id="a9" playOrder="0">
+			<navLabel>
+				<text>Contains Words That May Or May Not Reveal That There Is An Attack</text>
+			</navLabel>
+			<content src="20140112-benjamin-buckingham.html#chapter9"/>
+		</navPoint>
+		
+		<navPoint id="a10" playOrder="0">
+			<navLabel>
+				<text>Contains Words That May Or May Not Reveal That There Is A King Kidnapping</text>
+			</navLabel>
+			<content src="20140112-benjamin-buckingham.html#chapter8"/>
+		</navPoint>
+		
+		<navPoint id="a11" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Flying Machine</text>
 			</navLabel>
@@ -83,20 +97,6 @@
 				<text>Contains Words That May Or May Not Reveal That There Is Evil</text>
 			</navLabel>
 			<content src="20140112-benjamin-buckingham.html#chapter12"/>
-		</navPoint>
-		
-		<navPoint id="a13" playOrder="0">
-			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Production Studio</text>
-			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter13"/>
-		</navPoint>
-		
-		<navPoint id="a14" playOrder="0">
-			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is An Attack</text>
-			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter14"/>
 		</navPoint>
 		
 		<navPoint id="a15" playOrder="0">
