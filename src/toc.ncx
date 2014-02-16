@@ -19,210 +19,210 @@
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Nightmare</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter01"/>
+			<content src="bb-book-text.html#chapter01"/>
 		</navPoint>
 		
 		<navPoint id="a2" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Actually Is A Dinosaur</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter02"/>
+			<content src="bb-book-text.html#chapter02"/>
 		</navPoint>
 		
 		<navPoint id="a3" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Lost Child</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter03"/>
+			<content src="bb-book-text.html#chapter03"/>
 		</navPoint>
 		
 		<navPoint id="a4" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A King</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter04"/>
+			<content src="bb-book-text.html#chapter04"/>
 		</navPoint>
 		
 		<navPoint id="a5" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Are Automatons</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter05"/>
+			<content src="bb-book-text.html#chapter05"/>
 		</navPoint>
 		
 		<navPoint id="a6" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Magical Escape Train</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter06"/>
+			<content src="bb-book-text.html#chapter06"/>
 		</navPoint>
 		
 		<navPoint id="a7" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Girl Named Selma<</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter07"/>
+			<content src="bb-book-text.html#chapter07"/>
 		</navPoint>
 		
 		<navPoint id="a8" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Production Studio</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter8"/>
+			<content src="bb-book-text.html#chapter8"/>
 		</navPoint>
 		
 		<navPoint id="a9" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is An Attack</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter9"/>
+			<content src="bb-book-text.html#chapter9"/>
 		</navPoint>
 		
 		<navPoint id="a10" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A King Kidnapping</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter8"/>
+			<content src="bb-book-text.html#chapter8"/>
 		</navPoint>
 		
 		<navPoint id="a11" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Flying Machine</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter9"/>
+			<content src="bb-book-text.html#chapter9"/>
 		</navPoint>
 		
 		<navPoint id="a12" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is Evil</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter12"/>
+			<content src="bb-book-text.html#chapter12"/>
 		</navPoint>
 		
 		<navPoint id="a13" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is Anger</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter13"/>
+			<content src="bb-book-text.html#chapter13"/>
 		</navPoint>
 		
 		<navPoint id="a14" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is An Escape</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter14"/>
+			<content src="bb-book-text.html#chapter14"/>
 		</navPoint>
 		
 		<navPoint id="a15" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Judgment</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter15"/>
+			<content src="bb-book-text.html#chapter15"/>
 		</navPoint>
 		
 		<navPoint id="a16" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Departure</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter16"/>
+			<content src="bb-book-text.html#chapter16"/>
 		</navPoint>
 		
 		<navPoint id="a17" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Squirrel</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter17"/>
+			<content src="bb-book-text.html#chapter17"/>
 		</navPoint>
 		
 		<navPoint id="a18" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Tree</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter18"/>
+			<content src="bb-book-text.html#chapter18"/>
 		</navPoint>
 		
 		<navPoint id="a19" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Request</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter19"/>
+			<content src="bb-book-text.html#chapter19"/>
 		</navPoint>
 		
 		<navPoint id="a20" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Bird</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter20"/>
+			<content src="bb-book-text.html#chapter20"/>
 		</navPoint>
 		
 		<navPoint id="a21" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Glass Castle</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter21"/>
+			<content src="bb-book-text.html#chapter21"/>
 		</navPoint>
 		
 		<navPoint id="a22" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Glass Tower</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter22"/>
+			<content src="bb-book-text.html#chapter22"/>
 		</navPoint>
 		
 		<navPoint id="a23" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Queen</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter23"/>
+			<content src="bb-book-text.html#chapter23"/>
 		</navPoint>
 		
 		<navPoint id="a24" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Door</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter24"/>
+			<content src="bb-book-text.html#chapter24"/>
 		</navPoint>
 		
 		<navPoint id="a25" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is Nightmare Castle</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter25"/>
+			<content src="bb-book-text.html#chapter25"/>
 		</navPoint>
 		
 		<navPoint id="a26" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Nightmarer</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter26"/>
+			<content src="bb-book-text.html#chapter26"/>
 		</navPoint>
 		
 		<navPoint id="a27" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Realization</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter27"/>
+			<content src="bb-book-text.html#chapter27"/>
 		</navPoint>
 		
 		<navPoint id="a28" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Battle</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter28"/>
+			<content src="bb-book-text.html#chapter28"/>
 		</navPoint>
 		
 		<navPoint id="a29" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Guard</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter29"/>
+			<content src="bb-book-text.html#chapter29"/>
 		</navPoint>
 		
 		<navPoint id="a30" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Dinosaur</text>
 			</navLabel>
-			<content src="20140112-benjamin-buckingham.html#chapter30"/>
+			<content src="bb-book-text.html#chapter30"/>
 		</navPoint>
 	</navMap>
 </ncx>
