@@ -122,7 +122,7 @@
 		
 		<navPoint id="a16" playOrder="0">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Departure</text>
+				<text>Contains Words That May Or May Not Reveal That Benjamin Is On His Own</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter16"/>
 		</navPoint>
