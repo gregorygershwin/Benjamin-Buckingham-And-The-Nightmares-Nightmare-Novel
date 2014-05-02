@@ -21,133 +21,133 @@
 			</navLabel>
 			<content src="bb-book-text.html#chapter01"/>
 		</navPoint>
-		
+
 		<navPoint id="a2" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Actually Is A Dinosaur</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter02"/>
 		</navPoint>
-		
+
 		<navPoint id="a3" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Lost Child</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter03"/>
 		</navPoint>
-		
+
 		<navPoint id="a4" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A King</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter04"/>
 		</navPoint>
-		
+
 		<navPoint id="a5" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Are Automatons</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter05"/>
 		</navPoint>
-		
+
 		<navPoint id="a6" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Magical Escape Train</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter06"/>
 		</navPoint>
-		
+
 		<navPoint id="a7" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Girl Named Selma<</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter07"/>
 		</navPoint>
-		
+
 		<navPoint id="a8" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Production Studio</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter8"/>
 		</navPoint>
-		
+
 		<navPoint id="a9" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is An Attack</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter9"/>
 		</navPoint>
-		
+
 		<navPoint id="a10" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A King Kidnapping</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter8"/>
 		</navPoint>
-		
+
 		<navPoint id="a11" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Flying Machine</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter9"/>
 		</navPoint>
-		
+
 		<navPoint id="a12" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is Evil</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter12"/>
 		</navPoint>
-		
+
 		<navPoint id="a13" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Clue</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter13"/>
 		</navPoint>
-		
+
 		<navPoint id="a14" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is An Opportunity</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter14"/>
 		</navPoint>
-		
+
 		<navPoint id="a15" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That Benjamin Is Blamed</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter15"/>
 		</navPoint>
-		
+
 		<navPoint id="a16" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That Benjamin Is Banished</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter16"/>
 		</navPoint>
-		
+
 		<navPoint id="a17" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Creature</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter17"/>
 		</navPoint>
-		
+
 		<navPoint id="a18" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Forrest</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter18"/>
 		</navPoint>
-		
+
 		<navPoint id="a19" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Are More Creatures</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter19"/>
 		</navPoint>
-	
+
 		<navPoint id="a20" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Trick</text>
@@ -161,49 +161,49 @@
 			</navLabel>
 			<content src="bb-book-text.html#chapter21"/>
 		</navPoint>
-		
+
 		<navPoint id="a22" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Glass Tower</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter22"/>
 		</navPoint>
-		
+
 		<navPoint id="a23" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Request</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter23"/>
 		</navPoint>
-		
+
 		<navPoint id="a24" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is Nightmare Castle</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter24"/>
 		</navPoint>
-		
+
 		<navPoint id="a25" playOrder="0">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Nightmarer</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Man Named Alosius Trenhaile</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter25"/>
 		</navPoint>
-		
+
 		<navPoint id="a26" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Battle</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter26"/>
 		</navPoint>
-		
+
 		<navPoint id="a27" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Guard</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter27"/>
 		</navPoint>
-		
+
 		<navPoint id="a28" playOrder="0">
 			<navLabel>
 				<text>Contains Words That May Or May Not Reveal That There Is A Dinosaur</text>
