@@ -136,7 +136,7 @@
 
 		<navPoint id="a18" playOrder="0">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Forrest</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A forest</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter18"/>
 		</navPoint>
