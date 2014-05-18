@@ -80,7 +80,7 @@
 
 		<navPoint id="a10" playOrder="0">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A King Kidnapping</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Kidnapping</text>
 			</navLabel>
 			<content src="bb-book-text.html#chapter8"/>
 		</navPoint>
