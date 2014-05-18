@@ -203,5 +203,12 @@
 			</navLabel>
 			<content src="bb-book-text.html#chapter27"/>
 		</navPoint>
+
+		<navPoint id="aFIN" playOrder="0">
+			<navLabel>
+				<text>The End</text>
+			</navLabel>
+			<content src="bb-book-text.html#FIN"/>
+		</navPoint>
 	</navMap>
 </ncx>
