@@ -701,3 +701,20 @@ tt, pre, .mono {
 /*  .color */
 /*    color: $green */
 /* */
+
+
+h1 {
+  text-align: center;
+}
+
+h1 span.chapter-number {
+  font-size: 0.5em;
+  font-weight: normal;
+  margin-top: 0.5em;
+  margin-bottom: 0.1em;
+  text-align: center;}
+
+h1 span.chapter-description {
+  font-size: 0.8em;
+  margin-bottom: 3.2em;
+  text-align: center;}
