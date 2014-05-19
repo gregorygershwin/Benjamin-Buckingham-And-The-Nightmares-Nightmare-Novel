@@ -127,7 +127,7 @@ p {
   adobe-hyphenate: none !important; }
 
 .rtl {
-  direction: rtl;
+  /*direction: rtl;*/
   float: right; }
 
 .drop {
