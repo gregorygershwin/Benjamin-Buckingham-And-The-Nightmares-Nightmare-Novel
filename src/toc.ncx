@@ -163,44 +163,51 @@
 
 		<navPoint id="chapter22" playOrder="22">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Glass Tower</text>
+				<text>Contains Words That May Or May Not Reveal That An Old Friend Returns</text>
 			</navLabel>
 			<content src="Text/bb-book-text.html#chapter22"/>
 		</navPoint>
 
 		<navPoint id="chapter23" playOrder="23">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Request</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Glass Tower</text>
 			</navLabel>
 			<content src="Text/bb-book-text.html#chapter23"/>
 		</navPoint>
 
 		<navPoint id="chapter24" playOrder="24">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is Nightmare Castle</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Request</text>
 			</navLabel>
 			<content src="Text/bb-book-text.html#chapter24"/>
 		</navPoint>
 
 		<navPoint id="chapter25" playOrder="25">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Man Named Alosius Trenhaile</text>
+				<text>Contains Words That May Or May Not Reveal That There Is Nightmare Castle</text>
 			</navLabel>
 			<content src="Text/bb-book-text.html#chapter25"/>
 		</navPoint>
 
 		<navPoint id="chapter26" playOrder="26">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is A Guard</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Man Named Alosius Trenhaile</text>
 			</navLabel>
 			<content src="Text/bb-book-text.html#chapter26"/>
 		</navPoint>
 
 		<navPoint id="chapter27" playOrder="27">
 			<navLabel>
-				<text>Contains Words That May Or May Not Reveal That There Is An Ending</text>
+				<text>Contains Words That May Or May Not Reveal That There Is A Guard</text>
 			</navLabel>
 			<content src="Text/bb-book-text.html#chapter27"/>
+		</navPoint>
+
+		<navPoint id="chapter28" playOrder="28">
+			<navLabel>
+				<text>Contains Words That May Or May Not Reveal That There Is An Ending</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter28"/>
 		</navPoint>
 
 		<navPoint id="FIN" playOrder="28">
