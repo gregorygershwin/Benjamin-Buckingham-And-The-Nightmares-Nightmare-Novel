@@ -210,7 +210,7 @@
 			<content src="Text/bb-book-text.html#chapter28"/>
 		</navPoint>
 
-		<navPoint id="FIN" playOrder="28">
+		<navPoint id="FIN" playOrder="29">
 			<navLabel>
 				<text>The End</text>
 			</navLabel>
