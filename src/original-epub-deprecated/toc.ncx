@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="eng">
+
+	<head>
+		<meta content="0c159d12-f5fe-4323-8194-f5c652b89f5c" name="dtb:uid"/>
+		<meta content="2" name="dtb:depth"/>
+		<meta content="calibre (0.8.68)" name="dtb:generator"/>
+		<meta content="0" name="dtb:totalPageCount"/>
+		<meta content="0" name="dtb:maxPageNumber"/>
+	</head>
+
+	<docTitle>
+		<text>Benjamin Buckingham and the Nightmare's Nightmare</text>
+	</docTitle>
+
+	<navMap>
+
+		<navPoint id="chapter01" playOrder="1">
+			<navLabel>
+				<text>Nightmare</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter01"/>
+		</navPoint>
+
+		<navPoint id="chapter02" playOrder="2">
+			<navLabel>
+				<text>Dinosaur</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter02"/>
+		</navPoint>
+
+		<navPoint id="chapter03" playOrder="3">
+			<navLabel>
+				<text>Lost Child</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter03"/>
+		</navPoint>
+
+		<navPoint id="chapter04" playOrder="4">
+			<navLabel>
+				<text>King</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter04"/>
+		</navPoint>
+
+		<navPoint id="chapter05" playOrder="5">
+			<navLabel>
+				<text>Automatons</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter05"/>
+		</navPoint>
+
+		<navPoint id="chapter06" playOrder="6">
+			<navLabel>
+				<text>Leaving</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter06"/>
+		</navPoint>
+
+		<navPoint id="chapter07" playOrder="7">
+			<navLabel>
+				<text>Selma</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter07"/>
+		</navPoint>
+
+		<navPoint id="chapter08" playOrder="8">
+			<navLabel>
+				<text>Studio</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter08"/>
+		</navPoint>
+
+		<navPoint id="chapter09" playOrder="9">
+			<navLabel>
+				<text>Attack</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter09"/>
+		</navPoint>
+
+		<navPoint id="chapter10" playOrder="10">
+			<navLabel>
+				<text>Kidnapping</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter10"/>
+		</navPoint>
+
+		<navPoint id="chapter11" playOrder="11">
+			<navLabel>
+				<text>Flying Machine</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter11"/>
+		</navPoint>
+
+		<navPoint id="chapter12" playOrder="12">
+			<navLabel>
+				<text>Evil</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter12"/>
+		</navPoint>
+
+		<navPoint id="chapter13" playOrder="13">
+			<navLabel>
+				<text>Dreams</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter13"/>
+		</navPoint>
+
+		<navPoint id="chapter14" playOrder="14">
+			<navLabel>
+				<text>Hope</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter14"/>
+		</navPoint>
+
+		<navPoint id="chapter15" playOrder="15">
+			<navLabel>
+				<text>Blamed</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter15"/>
+		</navPoint>
+
+		<navPoint id="chapter16" playOrder="16">
+			<navLabel>
+				<text>Banished</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter16"/>
+		</navPoint>
+
+		<navPoint id="chapter17" playOrder="17">
+			<navLabel>
+				<text>Squirrel</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter17"/>
+		</navPoint>
+
+		<navPoint id="chapter18" playOrder="18">
+			<navLabel>
+				<text>Forest</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter18"/>
+		</navPoint>
+
+		<navPoint id="chapter19" playOrder="19">
+			<navLabel>
+				<text>Favor</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter19"/>
+		</navPoint>
+
+		<navPoint id="chapter20" playOrder="20">
+			<navLabel>
+				<text>Deception</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter20"/>
+		</navPoint>
+
+		<navPoint id="chapter21" playOrder="21">
+			<navLabel>
+				<text>Bird</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter21"/>
+		</navPoint>
+
+		<navPoint id="chapter22" playOrder="22">
+			<navLabel>
+				<text>Return</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter22"/>
+		</navPoint>
+
+		<navPoint id="chapter23" playOrder="23">
+			<navLabel>
+				<text>Glass Tower</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter23"/>
+		</navPoint>
+
+		<navPoint id="chapter24" playOrder="24">
+			<navLabel>
+				<text>Request</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter24"/>
+		</navPoint>
+
+		<navPoint id="chapter25" playOrder="25">
+			<navLabel>
+				<text>Nightmare Castle</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter25"/>
+		</navPoint>
+
+		<navPoint id="chapter26" playOrder="26">
+			<navLabel>
+				<text>We Don't Talk About It</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter26"/>
+		</navPoint>
+
+		<navPoint id="chapter27" playOrder="27">
+			<navLabel>
+				<text>Guard</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter27"/>
+		</navPoint>
+
+		<navPoint id="chapter28" playOrder="28">
+			<navLabel>
+				<text>School</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#chapter28"/>
+		</navPoint>
+
+		<navPoint id="FIN" playOrder="29">
+			<navLabel>
+				<text>The End?</text>
+			</navLabel>
+			<content src="Text/bb-book-text.html#FIN"/>
+		</navPoint>
+	</navMap>
+</ncx>

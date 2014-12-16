@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="uuid_id">
+	<metadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<dc:language>en</dc:language>
+		<dc:title>Benjamin Buckingham And The Nightmare's Nightmare</dc:title>
+		<dc:creator opf:file-as="Gershwin, Gregory" opf:role="aut">Gregory Gershwin</dc:creator>
+		<meta name="cover" content="cover"/>
+		<dc:date>0101-01-01T00:00:00+00:00</dc:date>
+		<dc:contributor opf:role="bkp"></dc:contributor>
+		<dc:identifier id="uuid_id" opf:scheme="uuid">0c159d12-f5fe-4323-8194-f5c652b89f5c</dc:identifier>
+	</metadata>
+	<manifest>
+		<item href="Images/cover.jpg" id="cover" media-type="image/jpeg"/>
+		<item href="toc.ncx" media-type="application/x-dtbncx+xml" id="ncx"/>
+		<item href="Text/chapter01.xhtml" id="chapter01" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter02.xhtml" id="chapter02" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter03.xhtml" id="chapter03" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter04.xhtml" id="chapter04" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter05.xhtml" id="chapter05" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter06.xhtml" id="chapter06" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter07.xhtml" id="chapter07" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter08.xhtml" id="chapter08" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter09.xhtml" id="chapter09" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter10.xhtml" id="chapter10" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter11.xhtml" id="chapter11" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter12.xhtml" id="chapter12" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter13.xhtml" id="chapter13" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter14.xhtml" id="chapter14" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter15.xhtml" id="chapter15" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter16.xhtml" id="chapter16" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter17.xhtml" id="chapter17" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter18.xhtml" id="chapter18" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter19.xhtml" id="chapter19" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter20.xhtml" id="chapter20" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter21.xhtml" id="chapter21" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter22.xhtml" id="chapter22" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter23.xhtml" id="chapter23" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter24.xhtml" id="chapter24" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter25.xhtml" id="chapter25" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter26.xhtml" id="chapter26" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter27.xhtml" id="chapter27" media-type="application/xhtml+xml"/>
+		<item href="Text/chapter28.xhtml" id="chapter28" media-type="application/xhtml+xml"/>
+		<item href="Text/fin.xhtml" id="fin" media-type="application/xhtml+xml"/>
+		<item href="Styles/stylesheet.css" id="css" media-type="text/css"/>
+		<item href="Text/titlepage.xhtml" id="titlepage" media-type="application/xhtml+xml"/>
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="chapter01"/>
+		<itemref idref="chapter02"/>
+		<itemref idref="chapter03"/>
+		<itemref idref="chapter04"/>
+		<itemref idref="chapter05"/>
+		<itemref idref="chapter06"/>
+		<itemref idref="chapter07"/>
+		<itemref idref="chapter08"/>
+		<itemref idref="chapter09"/>
+		<itemref idref="chapter10"/>
+		<itemref idref="chapter11"/>
+		<itemref idref="chapter12"/>
+		<itemref idref="chapter13"/>
+		<itemref idref="chapter14"/>
+		<itemref idref="chapter15"/>
+		<itemref idref="chapter16"/>
+		<itemref idref="chapter17"/>
+		<itemref idref="chapter18"/>
+		<itemref idref="chapter19"/>
+		<itemref idref="chapter20"/>
+		<itemref idref="chapter21"/>
+		<itemref idref="chapter22"/>
+		<itemref idref="chapter23"/>
+		<itemref idref="chapter24"/>
+		<itemref idref="chapter25"/>
+		<itemref idref="chapter26"/>
+		<itemref idref="chapter27"/>
+		<itemref idref="chapter28"/>
+		<itemref idref="fin"/>
+	</spine>
+	<guide>
+		<reference href="Text/titlepage.xhtml" type="cover" title="Cover"/>
+		<reference href="Text/chapter01.xhtml" type="text"/>
+		<reference href="Text/chapter02.xhtml" type="text"/>
+		<reference href="Text/chapter03.xhtml" type="text"/>
+		<reference href="Text/chapter04.xhtml" type="text"/>
+		<reference href="Text/chapter05.xhtml" type="text"/>
+		<reference href="Text/chapter06.xhtml" type="text"/>
+		<reference href="Text/chapter07.xhtml" type="text"/>
+		<reference href="Text/chapter08.xhtml" type="text"/>
+		<reference href="Text/chapter09.xhtml" type="text"/>
+		<reference href="Text/chapter10.xhtml" type="text"/>
+		<reference href="Text/chapter11.xhtml" type="text"/>
+		<reference href="Text/chapter12.xhtml" type="text"/>
+		<reference href="Text/chapter13.xhtml" type="text"/>
+		<reference href="Text/chapter14.xhtml" type="text"/>
+		<reference href="Text/chapter15.xhtml" type="text"/>
+		<reference href="Text/chapter16.xhtml" type="text"/>
+		<reference href="Text/chapter17.xhtml" type="text"/>
+		<reference href="Text/chapter18.xhtml" type="text"/>
+		<reference href="Text/chapter19.xhtml" type="text"/>
+		<reference href="Text/chapter20.xhtml" type="text"/>
+		<reference href="Text/chapter21.xhtml" type="text"/>
+		<reference href="Text/chapter22.xhtml" type="text"/>
+		<reference href="Text/chapter23.xhtml" type="text"/>
+		<reference href="Text/chapter24.xhtml" type="text"/>
+		<reference href="Text/chapter25.xhtml" type="text"/>
+		<reference href="Text/chapter26.xhtml" type="text"/>
+		<reference href="Text/chapter27.xhtml" type="text"/>
+		<reference href="Text/chapter28.xhtml" type="text"/>
+		<reference href="Text/fin.xhtml" type="acknowledgements"/>
+	</guide>
+</package>
