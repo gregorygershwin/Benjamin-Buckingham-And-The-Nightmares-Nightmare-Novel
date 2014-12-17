@@ -76,7 +76,6 @@
 		<itemref idref="fin"/>
 	</spine>
 	<guide>
-		<reference href="Text/titlepage.xhtml" type="cover" title="Cover"/>
 		<reference href="Text/chapter01.xhtml" type="text"/>
 		<reference href="Text/chapter02.xhtml" type="text"/>
 		<reference href="Text/chapter03.xhtml" type="text"/>
