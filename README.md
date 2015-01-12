@@ -1,5 +1,4 @@
-# Writing process for creating
-# Benjamin Buckingham And The Nightmare's Nightmare
+# Writing process for creating Benjamin Buckingham And The Nightmare's Nightmare
 
 ### About
 
