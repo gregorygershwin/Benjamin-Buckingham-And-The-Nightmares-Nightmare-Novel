@@ -1,66 +1,33 @@
-# Writing process for creating Benjamin Buckingham And The Nightmare's Nightmare
+**Young Adult Novel And Creative Process Released On GitHub.com**
 
-### About
+*Benjamin Buckingham And The Nightmare’s Nightmare* by Gregory Gershwin is a young adult novel about a young boy who stumbles into a world where he must battle nightmares to save dreams. In addition to the book being available for purchase, Gregory has [released his entire creative process](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel) so that others can see how he used GitHub.com, a website that organizes versions of documents made over time, to create the story. It is a rare behind-the-scenes, archaeological exploration of the history of the book and glimpse into the creative process.
 
-Benjamin Buckingham And The Nightmare's Nightmare is a children's novel I wrote between 2013 and 2014. I published the book on December 16, 2014. In early 2014, I decided to move my entire creative process to git (a reversion control management tool that manages the changes made in files) so I could record the evolution of the book throughout the creative process. This tool allowed me to funnel my creative energies into a process that encouraged me to always look forward and to make incremental changes. It also allowed me to see how far I had come and how far I had yet to go.
+A year ago, he decided to try using this tool traditionally used by the tech industry for his creative writing process. GitHub.com allowed Gregory to funnel his creative energies into a process that encouraged him to make incremental edits and that allowed him to see changes made over time. The history of the book includes over 25 drafts with over 400 changes over 12 months.
 
-I am now opening this GitHub repo to the public since the book has been made available in electronic form on both [Amazon Kindle] and [Barnes & Noble Nook]. I would very much appreciate if you would read the book and post a review online.
+Gregory wanted to share his experience using an atypical tool for writing to give others ideas as to how they can use GitHub.com to help their own processes. In an attempt to share his full creative process, it’s now possible to browse the complete history of the book on GitHub.com and see how the story took shape. For example, viewers can see the following changes:
 
-But, why am I making this book public?
+* [Prague was changed to "the old city" in Benjamin’s dream](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel/commit/a859caad1cbc7c7b1ea64162ddea311d45e2be14#diff-be0a54efd104c370eb7460623bea3815L164)
 
-I am opening my creative process so that other writers, artists, lovers-of-stories, and engineers can see how I used git to create this work. You are able to see the efforts of a year of thinking, planning, creating, writing, editing, copyediting, copyediting again, formatting, and publishing. Imagine it as a behind-the-scenes, archealogical exploration of the history of the book.
+* [Selma’s character was no longer a "damsel in distress"](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel/commit/656bc41f080b70c66e9b219dc2b63f125b3cc66f)
 
-You can see when
-- Plot decisions were made.
-- When characters were created.
-- Or removed.
-- Or changed personalities.
-- When I deleted chapters.
-- When I added chapters.
-- When I made revisions.
-- Or when those revisions needed to be reversed.
-- When my readers offered feedback.
-- And my unfiltered thoughts about that feedback.
-- When I grew as a writer.
-- And when I was stagnant.
-- Or when I just didn't yet know where the book was going.
-- Or whether a character was being too whiny.
-- Or too proud.
-- Or too loud.
-- Or obnoxious.
-- Or didn't have friends.
-- And when he got friends.
-- And how much fun he had with those friends.
+* [Benjamin’s personality changed from being cowardly to courageous](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel/commit/dde63f138773a3f5e7c67280479f7e7568eca578)
 
-I had a lot of fun writing the book with git and I would like to share the result with you. GitHub.com has a nice user interface that allows you do some cool things.
+* [The queen changed from being an evil villain to a friendly guide](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel/commit/41638c0f54d0ea525c00fc39b7186bed0d17d97a)
 
-For example, 
-- Visit the commit history and see when changes were made. Some characters appeared, disappeared, or changed along the creative process.
-- Take a diff (difference) of two commits and see what changed during that time.
-- Look at the graphs to see when changes were made.
-- Observe how I made copyediting and story changes in the commit history.
-- Tell me (gregory [dot] gershwin [@] gmail [dot] com) what else you find intriguing.
+* [The original first chapter was deleted altogether](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel/commit/5d5de86d9a1de95d05fcb6d70d6298b2c275f3dd)
 
-And if you happen to know a thing about git, perhaps you'd like to make some changes to the repo. Here are some suggestions for how you could add to it:
-- See a spelling mistake in the book? Send me a pull request and I'll merge it.
-- Any grammatical mistakes? Pull request!
-- Think some sentences were clunky or could have been better written? I'd love a pull request for that as well to see what you think. I may not merge it but it would be a fun exercise to see the difference in writing styles.
+Gregory is currently working on the second novel in the Benjamin Buckingham series, again using GitHub.com for the process. For further information or interview opportunities, contact Myrna.Delacourte@delacourtepr.com.
 
-My goal for opening this repo to the public is to share my creative process. In addition, I hope you do read the book and if you like it, you share it with others and review it online. Ideally, I'd like to continue writing and share more creative processes in the future. I can only do so if I have some readers.
+**About BENJAMIN BUCKINGHAM AND THE NIGHTMARE’S NIGHTMARE**
 
-Have fun and let me know what you discover.
+What happens when you wake after a night of dreaming to find your favorite dinosaur character from your favorite TV show talking to you in your bedroom? You and the dinosaur panic!!! After nine year-old Benjamin Buckingham calms down, he chooses between chasing after the dinosaur into a secret world or... going to school. What Benjamin finds is an imaginative world with castles filled with people who create dreams. But, Benjamin discovers something else, something awful, something treacherous. An evil castle creates nightmares and the ruler of this castle wants to destroy all the dreams. Benjamin begins a quest to save a kidnapped king and finds talking animals, magical castles, and frightening monsters along the way. Will dreams survive? Will nightmares be destroyed? Will dinosaurs continue talking forever?
 
-### Press Coverage
+Published: December 16, 2014
 
-Would you happen to be interested in writing about my work? Please contact gregory [dot] gershwin [@] gmail [dot] com.
+Available at [Amazon.com](http://www.amazon.com/dp/B00QUR5386) and [Barnes & Noble](http://www.barnesandnoble.com/w/benjamin-buckingham-and-the-nightmares-nightmare-gregory-mazurek/1120935329)
 
-### Biography
+**About Gregory Gershwin**
 
-Gregory Gershwin is the psuedonym Gregory Mazurek uses when he writes books for young adults. He graduated from Brown University with an English Literature degree and was mentored by the late Robert Creeley. Upon graduation, he worked for Hachette Book Group USA for several years and has been published by Barnes & Noble, McSweeney's, The Morning News, Bygone Bureau, and other online outlets. He is also a software engineer who lives in New York and works for Gilt.com.
+Gregory Gershwin graduated from Brown University with an English Literature degree and was mentored by the late Robert Creeley. Upon graduation, he worked for Hachette Book Group USA for several years and has been published by Barnes & Noble, McSweeney's, The Morning News, Bygone Bureau, and other online outlets. He is also a software engineer who lives in New York and works for Gilt.com.
 
-### License
-
-The content, epubs, text, characters, images, etc in this repo are Copyright The Gregarious LLC 2013-2015. Please do not distribute or sell any books (physical or electronic) based on this content without my consent. Would you like to write fan fiction? Go for it! Fan fiction is encouraged! 
-
-[Amazon Kindle]:http://www.amazon.com/dp/B00QUR5386
-[Barnes & Noble Nook]:http://www.barnesandnoble.com/w/benjamin-buckingham-and-the-nightmares-nightmare-gregory-mazurek/1120935329
+Copyright The Gregarious 2013-2015
