@@ -1,6 +1,8 @@
 **Young Adult Novel And Creative Process Released On GitHub.com**
 
-*Benjamin Buckingham And The Nightmare’s Nightmare* by Gregory Gershwin is a young adult novel about a young boy who stumbles into a world where he must battle nightmares to save dreams. In addition to the book being available for purchase, Gregory has [released his entire creative process](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel) so that others can see how he used GitHub.com, a website that organizes versions of documents made over time, to create the story. It is a rare behind-the-scenes, archaeological exploration of the history of the book and glimpse into the creative process.
+As featured on [Quartz](http://www.qz.com/335942/an-author-used-a-tool-for-programmers-to-write-a-book/).
+
+[Benjamin Buckingham And The Nightmare’s Nightmare](http://www.amazon.com/dp/B00QUR5386) by Gregory Gershwin is a young adult novel about a young boy who stumbles into a world where he must battle nightmares to save dreams. In addition to the book being available for purchase, Gregory has [released his entire creative process](https://github.com/gregorygershwin/Benjamin-Buckingham-And-The-Nightmares-Nightmare-Novel) so that others can see how he used GitHub.com, a website that organizes versions of documents made over time, to create the story. It is a rare behind-the-scenes, archaeological exploration of the history of the book and glimpse into the creative process.
 
 A year ago, he decided to try using this tool traditionally used by the tech industry for his creative writing process. GitHub.com allowed Gregory to funnel his creative energies into a process that encouraged him to make incremental edits and that allowed him to see changes made over time. The history of the book includes over 25 drafts with over 400 changes over 12 months.
 
